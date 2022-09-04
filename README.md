@@ -34,3 +34,5 @@ Libraries to be imported:
 - collections
 - glob
 - random
+
+The dataset used is MatchnMingle https://matchmakers.ewi.tudelft.nl/matchnmingle/pmwiki/pmwiki.php?n=Main.MatchNMingle#:~:text=The%20MatchNMingle%20dataset,a%20mingle%20(cocktail%20party), a dataset created by the Delf University; to access it, credentials are needed.
